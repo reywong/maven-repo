@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.com.yto56.coresystem.stl.soa</groupId>
+  <artifactId>reywong-common-framework</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170829092004</lastUpdated>
+  </versioning>
+</metadata>
